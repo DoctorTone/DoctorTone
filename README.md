@@ -16,6 +16,19 @@ Like what you might ask!?
 
 I've been quite busy 😁!
 
+I'm currently using the following languages/frameworks:
+
+- Javascript
+- React
+- Three.js
+- React-three-fiber
+- Node.js
+- Unity
+- HTML
+- CSS (and related frameworks)
+- I have a knowledge of MySQL and NoSQL
+- I have utilised Lightsail in AWS for backend projects.
+
 I'm always open to new work opportunities, please get in touch if you would like to talk about a new project.
 
 Tony. 👍
