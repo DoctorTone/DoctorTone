@@ -22,6 +22,7 @@ I'm currently using the following languages/frameworks:
 - React
 - Three.js
 - React-three-fiber
+- Shaders (GLSL)
 - Node.js
 - Unity
 - HTML
