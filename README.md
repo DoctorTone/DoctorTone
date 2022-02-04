@@ -23,13 +23,13 @@ I'm currently using the following languages/frameworks:
 - Three.js
 - React-three-fiber
 - Shaders (GLSL)
+- Typescript
 - Node.js
 - Unity
 - HTML
 - CSS (and related frameworks)
 - I have a knowledge of MySQL and NoSQL
 - I have utilised Lightsail in AWS for backend projects.
-- I'm getting to grips with Typescript 👍!
 
 I'm always open to new work opportunities, please get in touch if you would like to talk about a new project.
 
