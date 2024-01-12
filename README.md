@@ -21,6 +21,7 @@ I'm currently using the following languages/frameworks:
 
 - Javascript
 - React
+- Babylon.js
 - Three.js
 - React-three-fiber
 - Shaders (GLSL)
