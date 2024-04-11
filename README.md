@@ -8,6 +8,7 @@ Like what you might ask!?
 
 - A metaverse museum application for the art world allowing multiple participants to view exhibits in the browser and VR.
 - 3D data visualisations for things such as climate data, finance, sports, music, you name it!
+- 3D editors for modelling and building construction.
 - Medical imaging applications for detecting and measuring tumours.
 - A brain surgery simulator!
 - A clinical mental health trial with Nottinghamshire Healthcare Trust to aid people in coping with mental health issues.
@@ -20,15 +21,16 @@ I've been quite busy 😁!
 I'm currently using the following languages/frameworks:
 
 - Javascript
+- Typescript
 - React
-- Babylon.js
 - Three.js
 - React-three-fiber
+- Babylon.js
 - Shaders (GLSL)
-- Typescript
-- Node.js
+- Blender for 3D modelling
 - Unity
 - HTML
+- Node.js
 - CSS (and related frameworks)
 - I have a knowledge of MySQL and NoSQL
 - I have utilised Lightsail in AWS for backend projects.
