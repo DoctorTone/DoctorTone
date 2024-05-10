@@ -26,6 +26,7 @@ I'm currently using the following languages/frameworks:
 - Three.js
 - React-three-fiber
 - Babylon.js
+- Zustand for state management
 - Shaders (GLSL)
 - Blender for 3D modelling
 - Unity
