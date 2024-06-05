@@ -14,7 +14,7 @@ Like what you might ask!?
 - A clinical mental health trial with Nottinghamshire Healthcare Trust to aid people in coping with mental health issues.
 - A 3D project configurator for a marketing company to let customers configure what they want before buying it.
 - Car driving simulators in Unity.
-- Virtual environments, childrens games, AR apps...
+- Virtual environments, children's games, AR apps...
 
 I've been quite busy 😁!
 
@@ -32,8 +32,8 @@ I'm currently using the following languages/frameworks:
 - Unity
 - HTML
 - Node.js
-- CSS (and related frameworks)
-- I have a knowledge of MySQL and NoSQL
+- CSS frameworks such as material UI and bootstrap
+- I have knowledge of MySQL and NoSQL
 - I have utilised Lightsail in AWS for backend projects.
 
 I'm always open to new work opportunities, please get in touch if you would like to talk about a new project.
