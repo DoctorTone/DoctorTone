@@ -6,7 +6,7 @@ I build all sorts of interactive graphical applications (mostly) for the web.
 
 Like what you might ask!?
 
-- A metaverse museum application for the art world allowing multiple participants to view exhibits in the browser and VR.
+- A virtual museum application for the art world allowing multiple participants to view exhibits in the browser and VR.
 - 3D data visualisations for things such as climate data, finance, sports, music, you name it!
 - 3D editors for modelling and building construction.
 - Medical imaging applications for detecting and measuring tumours.
