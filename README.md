@@ -35,6 +35,7 @@ I'm currently using the following languages/frameworks:
 - CSS frameworks such as material UI and bootstrap
 - I have knowledge of MySQL and NoSQL
 - I have utilised Lightsail in AWS for backend projects.
+- For past projects I have used C/C++, C# and Python and could easily pick these up again if required.
 
 I'm always open to new work opportunities, please get in touch if you would like to talk about a new project.
 
